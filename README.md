@@ -1,2 +1,2 @@
 # CubeARnival
-This project projects a 3D cube on a 2D image.
+Projecting a 3D cube on a 2D image.
