@@ -1,2 +1,2 @@
 # CubeARnival
-Projecting a 3D cube on a 2D image.
+Integrating an Augmented Reality (AR) cube into the surrounding environment
